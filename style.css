@@ -1,0 +1,62 @@
+.b
+{
+                background-color:inherit;
+                text-align:left;
+                padding: 35px;
+                width:320px;
+                margin-left:35%;
+                
+}
+            li a
+            {
+                color: black;
+                font-size:15px;
+                font-family: Times New Roman;
+                font-size:125%;
+            }
+            li
+            {
+                color: black;
+                font-size:15px;
+                font-family: Times New Roman;
+                font-size:125%; 
+            }
+            .text{
+                text-decoration: none;
+                color:white;
+            }
+            td,tr
+            {
+                color: black;
+                border:solid black;
+                font-family: 'Times New Roman', Times, serif;
+                padding:3px
+            }
+            li a:hover
+            {
+                background-color: rgb(102, 102, 153);
+                text-decoration:blink;
+                padding: 4px 5px;
+                font-size:26px;
+            }
+    .g{
+        border:solid black(226, 208, 186);
+        border:5px;
+        position: absolute;
+        margin-left: 35%;
+        text-align: center;
+        padding:5px;
+        width:25%;
+        color:black;
+    }
+span
+{
+    color:rgb(109, 245, 75);
+} 
+lo
+            {
+                color: black;
+                font-size:15px;
+                font-family: 'Times New Roman', Times, serif;
+                font-size:125%;
+            }
